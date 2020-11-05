@@ -9,5 +9,5 @@
 
 
 # ares5k-zookeeper-distribut-lock 是基于 curator实现的 zookeeper分布式锁 Aop注解组件
-- GitHub:https://github.com/ares5k/ares5k-zookeeper-distribut-lock
-- 码云：https://gitee.com/ares5k/ares5k-zookeeper-distribut-lock
+- GitHub:https://github.com/ares5k/ares5k-zookeeper-distribute-lock
+- 码云：https://gitee.com/ares5k/ares5k-zookeeper-distribute-lock
